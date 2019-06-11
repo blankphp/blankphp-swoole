@@ -1,0 +1,17 @@
+{
+    "name": "blankqwq\/blankphp-swoole",
+    "description": "A BlankPhp Swoole",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "沉迷",
+            "email": "1136589038@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Blankqwq\\BlankphpSwoole\\": "src"
+        }
+    }
+}
