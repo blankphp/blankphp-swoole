@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Blankqwq\\BlankphpSwoole\\": "src"
+            "Blankqwq\\Swoole\\": "src"
         }
     }
 }
